@@ -2,23 +2,23 @@ vCard - Personal Portfolio
 
 # sidebar
 
-alt = Richard hanrick
-Richard hanrick
-Web developer
+alt = Friska Hermalia Putri
+Friska Hermalia Putri
+Data Scientist
 
 Show Contacts
 
 Email
-richard@example.com
+friskahermalia1@gmail.com
 
 Phone
-+1 (213) 352-2795
++62 83182952341
 
 Birthday
-June 23, 1982
+January 26, 2001
 
 Location
-Sacramento, California, USA
+Padang, Sumatera Barat, INDONESIA
 
 # navbar
 
@@ -32,9 +32,9 @@ Contact
 
 About me
 
-I'm Creative Director and UI/UX Designer from Sydney, Australia, working in web development and print media. I enjoy turning complex problems into simple, beautiful and intuitive designs.
+I'm a Data Scientist specializing in transforming raw data into actionable insights and solutions. With a deep understanding of machine learning, statistical analysis, and data visualization, I enjoy solving complex problems and uncovering patterns hidden within data.
 
-My job is to build your website so that it is functional and user-friendly but at the same time attractive. Moreover, I add personal touch to your product and make sure that is eye-catching and easy to use. My aim is to bring across your message and identity in the most creative way. I created web design for many famous brand companies.
+My role is to analyze and interpret your data to make it functional and insightful, while also ensuring that the results are easy to understand and act upon. Moreover, I add a personal touch to your data projects, making sure that the findings are not only accurate but also compelling and easy to digest. My aim is to communicate your message and insights in the most effective way. I have worked with various renowned companies, providing them with data-driven strategies and solutions.
 
 
 ## service
@@ -42,49 +42,16 @@ My job is to build your website so that it is functional and user-friendly but a
 What i'm doing
 
 alt = design icon
-Web design
-The most modern and high-quality design made at a professional level.
+Data Analysis
+Conducting thorough data analysis to uncover patterns, trends, and insights from complex datasets.
 
 alt = Web development icon
-Web development
-High-quality development of sites at the professional level.
+Data Visualization
+Creating high-quality visualizations to make data insights easy to understand and interpret.
 
 alt = mobile app icon
-Mobile apps
-Professional development of applications for iOS and Android.
-
-alt = camera icon
-Photography
-I make high-quality photos of any category at a professional level.
-
-
-## testimonials
-
-Testimonials
-
-alt = Daniel lewis
-Daniel lewis
-Richard was hired to create a corporate identity. We were very pleased with the work done. She has a lot of experience and is very concerned about the needs of client. Lorem ipsum dolor sit amet, ullamcous cididt consectetur adipiscing elit, seds do et eiusmod tempor incididunt ut laborels dolore magnarels alia.
-
-alt = Jessica miller
-Jessica miller
-Richard was hired to create a corporate identity. We were very pleased with the work done. She has a lot of experience and is very concerned about the needs of client. Lorem ipsum dolor sit amet, ullamcous cididt consectetur adipiscing elit, seds do et eiusmod tempor incididunt ut laborels dolore magnarels alia.
-
-alt = Emily evans
-Emily evans
-Richard was hired to create a corporate identity. We were very pleased with the work done. She has a lot of experience and is very concerned about the needs of client. Lorem ipsum dolor sit amet, ullamcous cididt consectetur adipiscing elit, seds do et eiusmod tempor incididunt ut laborels dolore magnarels alia.
-
-alt = Henry william
-Henry william
-Richard was hired to create a corporate identity. We were very pleased with the work done. She has a lot of experience and is very concerned about the needs of client. Lorem ipsum dolor sit amet, ullamcous cididt consectetur adipiscing elit, seds do et eiusmod tempor incididunt ut laborels dolore magnarels alia.
-
-
-## clients
-
-Clients
-
-alt = client logo
-
+Machine Learning
+Developing and implementing machine learning models to solve business problems and predict future outcomes.
 
 
 # resume
@@ -93,43 +60,23 @@ Resume
 
 Education
 
-University school of the arts
-2007 — 2008
-Nemo enims ipsam voluptatem, blanditiis praesentium voluptum delenit atque corrupti, quos dolores et quas molestias exceptur.
+Purwadhika Digital Technology School
+March - August 2024
+Learn about statistics, Python, algorithms, SQL, data visualization, and machine learning.
 
-New york academy of art
-2006 — 2007
-Ratione voluptatem sequi nesciunt, facere quisquams facere menda ossimus, omnis voluptas assumenda est omnis..
+Universitas Pendidikan Indonesia
+2019 — 2023
+Participant in Kampus Mengajar Angkatan 3 (1 of 16.757 awardees, out of 40.400 applicants all over Indonesia). Grade: 97,5 (A).
 
-High school of art and design
-2002 — 2004
-Duis aute irure dolor in reprehenderit in voluptate, quila voluptas mag odit aut fugit, sed consequuntur magni dolores eos.
-
-Experience
-
-Creative director
-2015 — Present
-Nemo enim ipsam voluptatem blanditiis praesentium voluptum delenit atque corrupti, quos dolores et qvuas molestias exceptur.
-
-Art director
-2013 — 2015
-Nemo enims ipsam voluptatem, blanditiis praesentium voluptum delenit atque corrupti, quos dolores et quas molestias exceptur.
-
-Web designer
-2010 — 2013
-Nemo enims ipsam voluptatem, blanditiis praesentium voluptum delenit atque corrupti, quos dolores et quas molestias exceptur.
 
 My skills
 
-Web design
+Data Visualization
+85%
+Data Analysis
 80%
-Graphic design
-70%
-Branding
-90%
-WordPress
-50%
-
+Machine Learning 
+80%
 
 
 # portfolio
@@ -137,15 +84,15 @@ WordPress
 Portfolio
 
 All
-Web design
-Applications
-Web development
+Data Analysis
+Data Visualization
+Machine Learning
 
 Select category
 All
-Web design
-Applications
-Web development
+Data Analysis
+Data Visualization
+Machine Learning
 
 alt = finance
 Finance
@@ -182,49 +129,6 @@ Applications
 alt = arrival
 Arrival
 Web development
-
-
-
-# blog
-
-Blog
-
-alt = Design conferences in 2022
-Design
-Fab 23, 2022
-Design conferences in 2022
-Veritatis et quasi architecto beatae vitae dicta sunt, explicabo.
-
-alt = Best fonts every designer
-Design
-Fab 23, 2022
-Best fonts every designer
-Sed ut perspiciatis, nam libero tempore, cum soluta nobis est eligendi.
-
-alt = Design digest #80
-Design
-Fab 23, 2022
-Design digest #80
-Excepteur sint occaecat cupidatat no proident, quis nostrum exercitationem ullam corporis suscipit.
-
-alt = UI interactions of the week
-Design
-Fab 23, 2022
-UI interactions of the week
-Enim ad minim veniam, consectetur adipiscing elit, quis nostrud exercitation ullamco laboris nisi.
-
-alt = The forgotten art of spacing
-Design
-Fab 23, 2022
-The Forgotten Art Of Spacing
-Maxime placeat, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-alt = Design digest #79
-Design
-Fab 23, 2022
-Design Digest #79
-Optio cumque nihil impedit uo minus quod maxime placeat, velit esse cillum.
-
 
 
 # contact
